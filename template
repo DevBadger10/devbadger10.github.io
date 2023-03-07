@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <link rel="stylesheet" href="theme.css">
+    <title>Home @ DevBadger10</title>
+  </head>
+  
+  <body>
+    <h1>Heading</h1>
+    <p>Paragraph One</p>
+    <p>Paragraph Two</p>
+  </body>
+</html>
